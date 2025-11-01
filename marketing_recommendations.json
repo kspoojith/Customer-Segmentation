@@ -1,0 +1,30 @@
+{
+  "0": {
+    "channel": "Personalized email + VIP offers",
+    "message": "VIP bundles and loyalty incentives",
+    "offer": "Free shipping threshold / % discount",
+    "baseline_conversion": 0.035,
+    "expected_conversion": 0.04025,
+    "expected_absolute_lift": 0.005249999999999998,
+    "size": 394,
+    "top_features": [
+      "Spend_per_membership_year",
+      "Length of Membership",
+      "Yearly Amount Spent"
+    ]
+  },
+  "1": {
+    "channel": "Personalized email + VIP offers",
+    "message": "VIP bundles and loyalty incentives",
+    "offer": "Free shipping threshold / % discount",
+    "baseline_conversion": 0.02,
+    "expected_conversion": 0.023,
+    "expected_absolute_lift": 0.002999999999999999,
+    "size": 106,
+    "top_features": [
+      "Spend_per_membership_year",
+      "Length of Membership",
+      "Yearly Amount Spent"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2025-11-01T18:39:27.350184",
+  "rows": 500,
+  "features": [
+    "Time on App",
+    "Time on Website",
+    "Length of Membership",
+    "Yearly Amount Spent",
+    "App_vs_Web_ratio",
+    "Spend_per_membership_year",
+    "Avatar_freq"
+  ],
+  "random_state": 42
+}

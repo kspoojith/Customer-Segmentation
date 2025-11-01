@@ -1,0 +1,36 @@
+{
+  "0": {
+    "size": 394,
+    "means": {
+      "Time on App": 11.979416243654823,
+      "Time on Website": 37.03532994923857,
+      "Length of Membership": 3.8956852791878176,
+      "Yearly Amount Spent": 518.3718527918782,
+      "App_vs_Web_ratio": 0.32364820437144415,
+      "Spend_per_membership_year": 135.09805339229098,
+      "Avatar_freq": 0.008741116751269037
+    },
+    "top3_features": [
+      "Spend_per_membership_year",
+      "Length of Membership",
+      "Yearly Amount Spent"
+    ]
+  },
+  "1": {
+    "size": 106,
+    "means": {
+      "Time on App": 12.324716981132074,
+      "Time on Website": 37.15396226415095,
+      "Length of Membership": 2.1866037735849058,
+      "Yearly Amount Spent": 428.47745283018867,
+      "App_vs_Web_ratio": 0.33189067536792766,
+      "Spend_per_membership_year": 214.05637128658364,
+      "Avatar_freq": 0.008867924528301888
+    },
+    "top3_features": [
+      "Spend_per_membership_year",
+      "Length of Membership",
+      "Yearly Amount Spent"
+    ]
+  }
+}
