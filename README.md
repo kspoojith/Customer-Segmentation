@@ -36,9 +36,3 @@ If you want to run the full notebook, install dependencies:
 python -m pip install -r requirements.txt
 jupyter lab
 ```
-
-I'll help you build the notebook and the clustering code next. If you'd like, I can:
-- Create the notebook with complete EDA and clustering experiments and run quick tests.
-- Or implement a script-based pipeline with reproducible functions and small unit tests.
-
-Which do you prefer? (notebook interactive walkthrough) or (scripted pipeline + tests)?
